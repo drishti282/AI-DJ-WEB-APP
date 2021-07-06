@@ -1,0 +1,30 @@
+body {
+  font-family: "Syne Mono", monospace;
+  background-position: center;
+  background-size: cover;
+}
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px rgb(245, 170, 255);
+}
+.note {
+  font-size: 15px;
+  color: black;
+}
+.v {
+  float: left;
+}
+.s {
+  float: right;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+canvas {
+  border: 5px rgb(0, 0, 0) solid;
+  box-shadow: rgb(245, 170, 255) 2px 2px 10px;
+  border-radius: 50px;
+}
